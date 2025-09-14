@@ -1,5 +1,10 @@
 import "./globals.css";
 
+export const metadata = {
+  title: "NeoEngine Status",
+  description: "NeoEngine Validator Application",
+};
+
 export default function RootLayout({
   children,
 }: {
